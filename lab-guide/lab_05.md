@@ -71,7 +71,7 @@ A simple way to ingest data is to use a **Copy Data** activity in a pipeline to 
     - **Compression type**: Leave default
 1. Select **Preview data** to see a sample of the data that will be ingested. Then close the data preview and select **Next**.
 
-     ![06](./Images/01/06.png)
+     ![06](./Images/01/L05T1S10.png)
 
 1. On the **Choose data destination** page, select your existing lakehouse. Then select **Next**.
 
@@ -94,7 +94,7 @@ A simple way to ingest data is to use a **Copy Data** activity in a pipeline to 
     - **Add header to file**: Selected
     - **Compression type**: Leave default
    
-     ![09](./Images/01/09.png)
+     ![09](./Images/01/L05T1S13.png)
 
 1. On the Review + Save page, review the details of your copy operation and then select **Save + Run**.
 
